@@ -33,7 +33,8 @@
 ### 📫 Connect with Me
 - 💼 [LinkedIn](https://linkedin.com/in/sean-rogers)  
 - 🐙 [GitHub](https://github.com/sharky1s34)  
-- ✉️ sean.rogers@duke.edu  
+- ✉️ sean.rogers@duke.edu  (school)
+- ✉️ seanrgrs06@gmail.com (personal)
 
 ---
 
